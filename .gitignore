@@ -1,0 +1,13 @@
+*target/
+*/bin/
+*.settings/
+*.classpath
+*.project
+*.idea/
+*.iml
+*src/test/java
+*.mp3
+*.wav
+*/src/test/java
+/bin/
+/logs/
