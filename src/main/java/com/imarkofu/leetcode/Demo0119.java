@@ -30,7 +30,7 @@ public class Demo0119 {
             // List<Integer> list = new ArrayList<>(rowIndex);
             Integer[] list = new Integer[rowIndex];
             list[0] = 1;
-            int i = 3, end = 0, j = 0;
+            int i = 3, end = 0, j;
             boolean js = false;
             for (; i <= rowIndex; i++) {
                 end = i / 2;
